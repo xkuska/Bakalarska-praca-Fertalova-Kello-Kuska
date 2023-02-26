@@ -1,0 +1,3 @@
+[submodule "webcms-bp-frontend"]
+	path = webcms-bp-frontend
+	url = https://gitlab.com/three-brave-axolotls/webcms-bp-frontend
